@@ -1,16 +1,46 @@
-## Hi there 👋
+# Muhammad Awais Bhatti
 
-<!--
-**awaisbhatti267/awaisbhatti267** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer | Python & React Developer
 
-Here are some ideas to get you started:
+Software Engineering student with hands-on experience in Python, Flask, React.js, REST APIs, and AI-powered web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack
+
+- Python
+- Flask
+- React.js
+- JavaScript
+- MySQL
+- REST APIs
+- Git & GitHub
+
+---
+
+## Featured Projects
+
+### AI-Powered Resume Analyzer
+Built a full-stack AI application for analyzing PDF resumes using Flask, React.js, MySQL, and OpenAI API integration.
+
+### Blockchain Double-Spending Simulation
+Developed a blockchain simulation prototype demonstrating double-spending attacks using Python and Flask.
+
+### Authentication & User Management System
+Created a secure authentication system with JWT authentication, password reset, and employee management features.
+
+---
+
+## Currently Learning
+
+- Advanced Backend Development
+- AI Integrations
+- System Design
+- API Security
+
+---
+
+## Connect With Me
+
+- LinkedIn: linkedin.com/in/muhammadawaisbhatti
+- Email: awaisxbhatti@gmail.com
