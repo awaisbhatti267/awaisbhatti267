@@ -2,47 +2,64 @@
 
 # Muhammad Awais Bhatti
 
-Full Stack Developer | Python & React Developer
+## 🚀 Full Stack Developer | Python • Flask • React.js • AI Applications
 
-Software Engineering student with hands-on experience in Python, Flask, React.js, REST APIs, and AI-powered web applications.
-
----
-
-## Tech Stack
-
-- Python
-- Flask
-- React.js
-- JavaScript
-- MySQL
-- REST APIs
-- Git & GitHub
+Software Engineering student passionate about building scalable full-stack and AI-powered web applications using modern backend and frontend technologies. Experienced in developing REST APIs, authentication systems, responsive user interfaces, and intelligent automation solutions.
 
 ---
 
-## Featured Projects
+## 🛠 Tech Stack
 
-### AI-Powered Resume Analyzer
-Built a full-stack AI application for analyzing PDF resumes using Flask, React.js, MySQL, and OpenAI API integration.
+### Languages & Frameworks
 
-### Blockchain Double-Spending Simulation
-Developed a blockchain simulation prototype demonstrating double-spending attacks using Python and Flask.
+* Python
+* JavaScript
+* Flask
+* React.js
 
-### Authentication & User Management System
-Created a secure authentication system with JWT authentication, password reset, and employee management features.
+### Databases & APIs
+
+* MySQL
+* REST APIs
+* API Integration
+
+### Tools & Technologies
+
+* Git & GitHub
+* VS Code
+* JWT Authentication
+* Responsive UI Design
 
 ---
 
-## Currently Learning
+## 🔥 Featured Projects
 
-- Advanced Backend Development
-- AI Integrations
-- System Design
-- API Security
+### 🤖 AI-Powered Resume Analyzer
+
+Full-stack AI-based resume analysis platform using React.js, Flask, MySQL, and OpenAI APIs for resume parsing, skill evaluation, and job-fit recommendations.
+
+### ⛓ Blockchain Double-Spending Simulation
+
+Python-based blockchain security simulation demonstrating double-spending attacks, transaction validation, mining workflows, and consensus mechanisms.
+
+### 🔐 Authentication & User Management System
+
+Secure authentication and employee management platform featuring JWT authentication, password reset workflows, role-based access control, and protected routes.
 
 ---
 
-## Connect With Me
+## 📚 Currently Learning
 
-- LinkedIn: linkedin.com/in/muhammadawaisbhatti
-- Email: awaisxbhatti@gmail.com
+* Advanced Backend Development
+* AI Integrations & Automation
+* System Design
+* API Security & Scalability
+
+---
+
+## 🌐 Connect With Me
+
+* LinkedIn: linkedin.com/in/muhammadawaisbhatti
+* GitHub: github.com/awaisbhatti267
+* Email: [awaisxbhatti@gmail.com](mailto:awaisxbhatti@gmail.com)
+
