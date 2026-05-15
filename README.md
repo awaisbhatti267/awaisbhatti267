@@ -1,3 +1,6 @@
+<img width="764" height="443" alt="image" src="https://github.com/user-attachments/assets/ce7bb364-f66f-44ba-973f-da838c0969e1" />
+
+
 # Muhammad Awais Bhatti
 
 Full Stack Developer | Python & React Developer
