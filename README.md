@@ -1,3 +1,5 @@
+<img width="100%" height="100%" alt="image" src="https://github.com/awaisbhatti267/awaisbhatti267/blob/main/banner.png" />
+
 # Muhammad Awais Bhatti
 
 Full Stack Developer | Python & React Developer
