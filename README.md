@@ -4,7 +4,7 @@
 
 ## 🚀 Full Stack Developer | Python • Flask • React.js • AI Applications
 
-Software Engineering student passionate about building scalable full-stack and AI-powered web applications using modern backend and frontend technologies. Experienced in developing REST APIs, authentication systems, responsive user interfaces, and intelligent automation solutions.
+Full Stack Developer passionate about building scalable and responsive web applications using React.js, Flask, REST APIs, and modern development technologies. Experienced in developing authentication systems, backend APIs, responsive user interfaces, and practical full-stack solutions with clean and maintainable code.
 
 ---
 
@@ -48,7 +48,7 @@ Secure authentication and employee management platform featuring JWT authenticat
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Building
 
 * Advanced Backend Development
 * AI Integrations & Automation
