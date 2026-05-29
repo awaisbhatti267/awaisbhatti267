@@ -26,6 +26,7 @@ Full Stack Developer passionate about building scalable and responsive web appli
 ### Tools & Technologies
 
 * Git & GitHub
+* Docker
 * VS Code
 * JWT Authentication
 * Responsive UI Design
