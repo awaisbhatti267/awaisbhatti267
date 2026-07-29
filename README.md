@@ -71,6 +71,10 @@ Building Python-based applications focused on backend logic, API integration, da
 
 ## 🌐 Connect With Me
 
-* LinkedIn: [linkedin.com/in/muhammadawaisbhatti](https://linkedin.com/in/muhammadawaisbhatti)
-* GitHub: [github.com/awaisbhatti267](https://github.com/awaisbhatti267)
-* Email: [awaisxbhatti@gmail.com](mailto:awaisxbhatti@gmail.com)
+## 🌐 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammad-awais-bhatti.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadawaisbhatti)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/awaisbhatti267)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awaisxbhatti@gmail.com)
+
