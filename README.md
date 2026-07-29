@@ -66,6 +66,8 @@ Building Python-based applications focused on backend logic, API integration, da
 * System Design & API Security
 * Docker & DevOps Basics
 * Advanced LLM Integration & RAG
+* Django
+* MongoDB
 
 ---
 
