@@ -71,7 +71,6 @@ Building Python-based applications focused on backend logic, API integration, da
 
 ## 🌐 Connect With Me
 
-## 🌐 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammad-awais-bhatti.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadawaisbhatti)
