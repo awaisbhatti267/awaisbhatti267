@@ -16,6 +16,7 @@ Full Stack Developer passionate about building AI-powered and scalable web appli
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### AI & LLM Integration
 ![Groq](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logo=groq&logoColor=white)
@@ -39,6 +40,9 @@ Full Stack Developer passionate about building AI-powered and scalable web appli
 
 ### 🧠 [AI Interview Prep Simulator](https://github.com/awaisbhatti267/AI-Interview-Prep)
 LLM-powered interview preparation platform using **Groq API (LLaMA 3.3 70B)** to generate topic-specific technical questions and deliver AI-driven answer evaluation with real-time feedback and scoring. Built with React.js, Flask, MySQL, JWT auth, OTP verification, resume skill extraction, weak topic detection, and performance analytics.
+
+### 🏥 Hospital Management System *(Under Development)*
+Full-stack Hospital Management System built with **React.js, Tailwind CSS, Flask, MySQL**, REST APIs, JWT authentication, and bcrypt. Features patient management, appointment scheduling, and role-based access control.
 
 ### 📄 [AI-Powered Resume Analyzer](https://github.com/awaisbhatti267/Resume-Analyzer-Ai)
 Full-stack AI application that analyzes PDF resumes using an LLM to extract skills, strengths, weaknesses, and job-fit recommendations. Built with React.js, Flask, MySQL, Groq API, and PyMuPDF.
@@ -73,9 +77,7 @@ Building Python-based applications focused on backend logic, API integration, da
 
 ## 🌐 Connect With Me
 
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammad-awais-bhatti.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadawaisbhatti)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/awaisbhatti267)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awaisxbhatti@gmail.com)
-
