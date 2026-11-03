@@ -2,9 +2,9 @@
 
 # Muhammad Awais Bhatti
 
-## 🚀 Full Stack Developer | Python • Flask • React.js • Next.js • LLM & AI Applications
+## 🚀 Full Stack Developer | MERN • PERN • Python Full Stack • LLM & AI Applications
 
-Full Stack Developer passionate about building AI-powered and scalable web applications using Python, Flask, React.js, Next.js, Node.js, REST APIs, and LLM integrations. Experienced in secure authentication systems, database management, resume-based AI pipelines, and responsive full-stack solutions with clean and maintainable code.
+Full Stack Developer working across the **MERN stack** (MongoDB, Express, React, Node.js), the **PERN stack** (PostgreSQL, Express, React, Node.js), and **Python full stack** (Flask, FastAPI, React). I build AI-powered and scalable web applications with REST APIs, LLM integrations, secure authentication, and clean, maintainable code.
 
 ---
 
