@@ -1,4 +1,4 @@
-![image](https://github.com/awaisbhatti267/awaisbhatti267/raw/main/banner.png)
+![image](https://github.com/awaisbhatti267/awaisbhatti267/raw/main/new-banner.png)
 
 # Muhammad Awais Bhatti
 
